@@ -1,33 +1,47 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:66ECCC,100:59D3C7&height=200&section=header&text=Don't%20sleep!&fontSize=60&&fontColor=FFFFFF&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:grey,50:grey,100:grey&height=250&section=header&text="DON'T%20SLEEP!"&fontSize=60&&fontColor=FFFFFF&fontAlignY=40)
 
-<div align="center">
+---
 
-<h3>
-  🌓 Introduction 
-</h3>
-  
-Hello! My name is Cho Yoon-chan, who dreams of becoming a front-end developer.
-  
-<br/>
-  
-<h3>
-🚀 Front-end Stack 
-</h3>
+### 🔗 About Me
+- I am a web front-end developer.
+- I enjoy challenging development to break through the limits of web development such as bulletin board expansion.
+- I have been involved in many external activities to expand the user-centered perspective, and have won more than 7 awards.
+- I enjoy growing together with us through four or more team leader experiences.
+- I am proud that my personal project, DREAMMAKER, is a project that has pushed the limits of the web front.
+- I believe that growth comes from taking on challenges. My current concern is optimization.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![typescript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
-![redux](https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
+---
+
+### 🔗 This is a technology mainly used in development.
+![javascript](https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/react-000000.svg?&style=for-the-badge&logo=react&logoColor=white)
+
+---
+
+
+### 🔗 This is a technique to use as needed.
+![redux](https://img.shields.io/badge/redux-000000.svg?&style=for-the-badge&logo=redux&logoColor=white)
+![recoil](https://img.shields.io/badge/recoil-000000.svg?&style=for-the-badge&logo=recoil&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-000000.svg?&style=for-the-badge&logo=MobX&logoColor=white)
 ![nextjs](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<br/>
-  
-<h3>
-🧩 My algorithm!
-</h3>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happycyc)](https://solved.ac/happycyc/)
+
+---
+
+### 🔗 It's a skill I'm steadily learning.
+![typescript](https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![nextjs](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+---
+
+### 🔗 A language used to study and analyze algorithms and CS.
+![Python](https://img.shields.io/badge/Python-000000.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
+
+---
+
+
+
  
-</div>
+
