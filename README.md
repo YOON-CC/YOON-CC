@@ -23,6 +23,15 @@
 ![recoil](https://img.shields.io/badge/recoil-000000.svg?&style=for-the-badge&logo=recoil&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-000000.svg?&style=for-the-badge&logo=MobX&logoColor=white)
 ![nextjs](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
+![githubactions](https://img.shields.io/badge/githubactions-000000.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
+![jest](https://img.shields.io/badge/jest-000000.svg?&style=for-the-badge&logo=jest&logoColor=white)
+
+</br>
+
+## 🔗 Techniques that use optimization and performance improvement.
+![nextjs](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
+![LightHouse](https://img.shields.io/badge/lighthouse-000000.svg?&style=for-the-badge&logo=lighthouse&logoColor=white)
+![webpack](https://img.shields.io/badge/webpack-000000.svg?&style=for-the-badge&logo=webpack&logoColor=white)
 
 </br>
 
