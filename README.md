@@ -15,6 +15,7 @@
 ![javascript](https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/react-000000.svg?&style=for-the-badge&logo=react&logoColor=white)
+![nextjs](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 </br>
 
@@ -22,9 +23,9 @@
 ![redux](https://img.shields.io/badge/redux-000000.svg?&style=for-the-badge&logo=redux&logoColor=white)
 ![recoil](https://img.shields.io/badge/recoil-000000.svg?&style=for-the-badge&logo=recoil&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-000000.svg?&style=for-the-badge&logo=MobX&logoColor=white)
-![nextjs](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![githubactions](https://img.shields.io/badge/githubactions-000000.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 ![jest](https://img.shields.io/badge/jest-000000.svg?&style=for-the-badge&logo=jest&logoColor=white)
+![webpack](https://img.shields.io/badge/webpack-000000.svg?&style=for-the-badge&logo=webpack&logoColor=white)
 
 </br>
 
@@ -35,18 +36,14 @@
 
 </br>
 
-## 🔗 It's a skill I'm steadily learning.
-![typescript](https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![nextjs](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-</br>
-
 ## 🔗 A language used to study and analyze algorithms and CS.
 ![Python](https://img.shields.io/badge/Python-000000.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
+</br>
 
-
-
-
- 
-
+## 🔗 It's a skill I'm steadily learning.
+![typescript](https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![nextjs](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
+![githubactions](https://img.shields.io/badge/githubactions-000000.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
+![jest](https://img.shields.io/badge/jest-000000.svg?&style=for-the-badge&logo=jest&logoColor=white)
+![webpack](https://img.shields.io/badge/webpack-000000.svg?&style=for-the-badge&logo=webpack&logoColor=white)
