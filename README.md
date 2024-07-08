@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:grey,50:grey,100:grey&height=250&section=header&text="DON'T%20SLEEP!"&fontSize=60&&fontColor=FFFFFF&fontAlignY=40)
-
-
 ## 🔗 About Me
 - I enjoy challenging development to break through the limits of web development such as bulletin board expansion.
 - I have been involved in many external activities to expand the user-centered perspective, and have won more than 8 awards.
