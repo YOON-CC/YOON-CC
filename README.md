@@ -2,9 +2,8 @@
 
 
 ## 🔗 About Me
-- I am a web front-end developer.
 - I enjoy challenging development to break through the limits of web development such as bulletin board expansion.
-- I have been involved in many external activities to expand the user-centered perspective, and have won more than 7 awards.
+- I have been involved in many external activities to expand the user-centered perspective, and have won more than 8 awards.
 - I enjoy growing together with us through four or more team leader experiences.
 - I am proud that my personal project, DREAMMAKER, is a project that has pushed the limits of the web front.
 - I believe that growth comes from taking on challenges. My current concern is optimization.
@@ -30,7 +29,6 @@
 </br>
 
 ## 🔗 Techniques that use optimization and performance improvement.
-![nextjs](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![LightHouse](https://img.shields.io/badge/lighthouse-000000.svg?&style=for-the-badge&logo=lighthouse&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack-000000.svg?&style=for-the-badge&logo=webpack&logoColor=white)
 
@@ -41,9 +39,3 @@
 
 </br>
 
-## 🔗 It's a skill I'm steadily learning.
-![typescript](https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![nextjs](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
-![githubactions](https://img.shields.io/badge/githubactions-000000.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
-![jest](https://img.shields.io/badge/jest-000000.svg?&style=for-the-badge&logo=jest&logoColor=white)
-![webpack](https://img.shields.io/badge/webpack-000000.svg?&style=for-the-badge&logo=webpack&logoColor=white)
