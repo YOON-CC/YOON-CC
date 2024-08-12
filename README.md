@@ -8,31 +8,26 @@
 </br>
 
 ## 🔗 This is a technology mainly used in development.
-![javascript](https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![typescript](https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/react-000000.svg?&style=for-the-badge&logo=react&logoColor=white)
-![nextjs](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
+<img align="left" src="https://github.com/user-attachments/assets/fe1219cb-3d3b-4d35-866a-9995ddd428da" alt="development" height="65px"/>
 
+</br>
 </br>
 
 ## 🔗 This is a technique to use as needed.
-![redux](https://img.shields.io/badge/redux-000000.svg?&style=for-the-badge&logo=redux&logoColor=white)
-![recoil](https://img.shields.io/badge/recoil-000000.svg?&style=for-the-badge&logo=recoil&logoColor=white)
-![MobX](https://img.shields.io/badge/MobX-000000.svg?&style=for-the-badge&logo=MobX&logoColor=white)
-![githubactions](https://img.shields.io/badge/githubactions-000000.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
-![jest](https://img.shields.io/badge/jest-000000.svg?&style=for-the-badge&logo=jest&logoColor=white)
-![webpack](https://img.shields.io/badge/webpack-000000.svg?&style=for-the-badge&logo=webpack&logoColor=white)
+<img align="left" src="https://github.com/user-attachments/assets/2014508c-c730-4899-a415-6696b8880020" alt="needed" height="67px"/>
 
+
+</br>
 </br>
 
 ## 🔗 Techniques that use optimization and performance improvement.
-![LightHouse](https://img.shields.io/badge/lighthouse-000000.svg?&style=for-the-badge&logo=lighthouse&logoColor=white)
-![webpack](https://img.shields.io/badge/webpack-000000.svg?&style=for-the-badge&logo=webpack&logoColor=white)
+<img align="left" src="https://github.com/user-attachments/assets/7b7ac6ee-962a-4200-80fe-ba44a6c356b2" alt="needed" height="64px"/>
 
+</br>
 </br>
 
 ## 🔗 A language used to study and analyze algorithms and CS.
-![Python](https://img.shields.io/badge/Python-000000.svg?&style=for-the-badge&logo=Python&logoColor=white)
+<img align="left" src="https://github.com/user-attachments/assets/14577641-f471-49e7-adc5-37f9995aa1f3" alt="needed" height="64px"/>
 
 </br>
-
+</br>
