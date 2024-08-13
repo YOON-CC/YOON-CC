@@ -1,9 +1,11 @@
 ## 🔗 My philosophy
 
 
-<img align="left" src="https://github.com/user-attachments/assets/b796fa07-661e-4e77-9764-1a20e588d0ea" alt="needed" height="150px"/>
+<img align="left" src="https://github.com/user-attachments/assets/b796fa07-661e-4e77-9764-1a20e588d0ea" alt="needed" height="140px"/>
 
 
+</br>
+</br>
 </br>
 </br>
 </br>
