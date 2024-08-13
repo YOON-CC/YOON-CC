@@ -1,8 +1,10 @@
 ## 🔗 My philosophy
 
 
-<img align="left" src="https://github.com/user-attachments/assets/b796fa07-661e-4e77-9764-1a20e588d0ea" alt="needed" height="140px"/>
+<img align="left" src="https://github.com/user-attachments/assets/4efe2d9c-c0c3-4b39-a1cd-73ccf25b3e38" alt="needed" height="140px"/>
 
+
+</br>
 
 </br>
 </br>
