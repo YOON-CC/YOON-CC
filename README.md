@@ -1,10 +1,11 @@
-## 🔗 About Me
-- I enjoy challenging development to break through the limits of web development such as bulletin board expansion.
-- I have been involved in many external activities to expand the user-centered perspective, and have won more than 8 awards.
-- I enjoy growing together with us through four or more team leader experiences.
-- I am proud that my personal project, DREAMMAKER, is a project that has pushed the limits of the web front.
-- I believe that growth comes from taking on challenges. My current concern is optimization.
+## 🔗 My philosophy
 
+
+<img align="left" src="https://github.com/user-attachments/assets/b796fa07-661e-4e77-9764-1a20e588d0ea" alt="needed" height="150px"/>
+
+
+</br>
+</br>
 </br>
 
 ## 🔗 This is a technology mainly used in development.
